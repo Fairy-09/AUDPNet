@@ -1,4 +1,4 @@
-# IECFONET
+# ADPB
 Two traditional machine learning models, one single deep learning model, five ensemble deep learning models for industrial electricity consumption forecasting.
 
 # Requirements
