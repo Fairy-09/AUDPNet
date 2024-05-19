@@ -1,5 +1,5 @@
-# ADPB
-Two traditional machine learning models, one single deep learning model, five ensemble deep learning models for industrial electricity consumption forecasting.
+# AUDPNet
+Two traditional machine learning models, one single deep learning model, four ensemble deep learning models and one innovative AUDPNet model for industrial electricity consumption forecasting.
 
 # Requirements
 Dependent libraries are placed in a file named 'requirements.txt'.
