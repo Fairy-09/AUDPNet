@@ -9,7 +9,7 @@ Run 'Excecute.py' to train.
      
 # 🌟 Citation
 
-If you find our repo useful for your research, please consider giving a 🌟 and citing our work below, which are the foundation of this work.
+If you find our repo useful for your research, please consider giving a 🌟 and citing our work below.
 
 ```
 @article{yang2025high,
